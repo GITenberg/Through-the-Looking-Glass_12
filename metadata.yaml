@@ -1,0 +1,27 @@
+_repo: Through-the-Looking-Glass_12
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Carroll
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Children's Literature
+gutenberg_issued: '2008-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Fantasy'
+- '!lcc:PR'
+- '!lcc:PZ'
+title: Through the Looking-Glass
+url: http://www.gutenberg.org/ebooks/12
