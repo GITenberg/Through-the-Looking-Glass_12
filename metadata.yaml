@@ -26,8 +26,8 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Fantasy'
-- '!lcc:PR'
-- '!lcc:PZ'
+- '!lcc: PR'
+- '!lcc: PZ'
+- '!lcsh: Fantasy'
 title: Through the Looking-Glass
 url: http://www.gutenberg.org/ebooks/12
