@@ -1,5 +1,5 @@
 _repo: Through-the-Looking-Glass_12
-_version: 0.0.2
+_version: 0.1.0
 covers:
 - attribution: Alex Kostiw, 2015
   cover_type: original
@@ -31,5 +31,6 @@ subjects:
 - '!lcc: PR'
 - '!lcc: PZ'
 - '!lcsh: Fantasy'
+- GITenberg
 title: Through the Looking-Glass
 url: http://www.gutenberg.org/ebooks/12
