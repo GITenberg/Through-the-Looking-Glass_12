@@ -1,5 +1,5 @@
 _repo: Through-the-Looking-Glass_12
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: Alex Kostiw, 2015
   cover_type: original
@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '7'
     url: http://www.gutenberg.org/2009/agents/7
     wikipedia: http://en.wikipedia.org/wiki/Lewis_Carroll
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12#Through-the-Looking-Glass
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Children's Literature
